@@ -1,0 +1,14 @@
+/home/usuario/Documentos/GitHub/Projetos_CSharp/Calculator/bin/Debug/net7.0/Calculator
+/home/usuario/Documentos/GitHub/Projetos_CSharp/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/home/usuario/Documentos/GitHub/Projetos_CSharp/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/home/usuario/Documentos/GitHub/Projetos_CSharp/Calculator/bin/Debug/net7.0/Calculator.dll
+/home/usuario/Documentos/GitHub/Projetos_CSharp/Calculator/bin/Debug/net7.0/Calculator.pdb
+/home/usuario/Documentos/GitHub/Projetos_CSharp/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/Documentos/GitHub/Projetos_CSharp/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/home/usuario/Documentos/GitHub/Projetos_CSharp/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/home/usuario/Documentos/GitHub/Projetos_CSharp/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/home/usuario/Documentos/GitHub/Projetos_CSharp/Calculator/obj/Debug/net7.0/Calculator.dll
+/home/usuario/Documentos/GitHub/Projetos_CSharp/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/home/usuario/Documentos/GitHub/Projetos_CSharp/Calculator/obj/Debug/net7.0/Calculator.pdb
+/home/usuario/Documentos/GitHub/Projetos_CSharp/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/home/usuario/Documentos/GitHub/Projetos_CSharp/Calculator/obj/Debug/net7.0/ref/Calculator.dll
