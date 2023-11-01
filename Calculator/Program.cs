@@ -14,6 +14,8 @@ namespace Calculator
         {
             Console.Clear();
 
+            Console.WriteLine("<<<<< CALCULADORA >>>>>");
+            Console.WriteLine("");
             Console.WriteLine("Qual operação deseja fazer? ");
             Console.WriteLine("1 - Soma");
             Console.WriteLine("2 - Subtração");
