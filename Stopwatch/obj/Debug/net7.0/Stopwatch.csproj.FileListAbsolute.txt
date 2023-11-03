@@ -1,0 +1,15 @@
+/home/erro404/Documentos/GitHub/Projetos_CSharp/Stopwatch/bin/Debug/net7.0/Stopwatch
+/home/erro404/Documentos/GitHub/Projetos_CSharp/Stopwatch/bin/Debug/net7.0/Stopwatch.deps.json
+/home/erro404/Documentos/GitHub/Projetos_CSharp/Stopwatch/bin/Debug/net7.0/Stopwatch.runtimeconfig.json
+/home/erro404/Documentos/GitHub/Projetos_CSharp/Stopwatch/bin/Debug/net7.0/Stopwatch.dll
+/home/erro404/Documentos/GitHub/Projetos_CSharp/Stopwatch/bin/Debug/net7.0/Stopwatch.pdb
+/home/erro404/Documentos/GitHub/Projetos_CSharp/Stopwatch/obj/Debug/net7.0/Stopwatch.csproj.AssemblyReference.cache
+/home/erro404/Documentos/GitHub/Projetos_CSharp/Stopwatch/obj/Debug/net7.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/erro404/Documentos/GitHub/Projetos_CSharp/Stopwatch/obj/Debug/net7.0/Stopwatch.AssemblyInfoInputs.cache
+/home/erro404/Documentos/GitHub/Projetos_CSharp/Stopwatch/obj/Debug/net7.0/Stopwatch.AssemblyInfo.cs
+/home/erro404/Documentos/GitHub/Projetos_CSharp/Stopwatch/obj/Debug/net7.0/Stopwatch.csproj.CoreCompileInputs.cache
+/home/erro404/Documentos/GitHub/Projetos_CSharp/Stopwatch/obj/Debug/net7.0/Stopwatch.dll
+/home/erro404/Documentos/GitHub/Projetos_CSharp/Stopwatch/obj/Debug/net7.0/refint/Stopwatch.dll
+/home/erro404/Documentos/GitHub/Projetos_CSharp/Stopwatch/obj/Debug/net7.0/Stopwatch.pdb
+/home/erro404/Documentos/GitHub/Projetos_CSharp/Stopwatch/obj/Debug/net7.0/Stopwatch.genruntimeconfig.cache
+/home/erro404/Documentos/GitHub/Projetos_CSharp/Stopwatch/obj/Debug/net7.0/ref/Stopwatch.dll
