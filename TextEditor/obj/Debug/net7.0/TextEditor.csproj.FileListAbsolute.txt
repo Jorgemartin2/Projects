@@ -1,0 +1,15 @@
+/home/erro404/Documentos/GitHub/Projetos_CSharp/TextEditor/bin/Debug/net7.0/TextEditor
+/home/erro404/Documentos/GitHub/Projetos_CSharp/TextEditor/bin/Debug/net7.0/TextEditor.deps.json
+/home/erro404/Documentos/GitHub/Projetos_CSharp/TextEditor/bin/Debug/net7.0/TextEditor.runtimeconfig.json
+/home/erro404/Documentos/GitHub/Projetos_CSharp/TextEditor/bin/Debug/net7.0/TextEditor.dll
+/home/erro404/Documentos/GitHub/Projetos_CSharp/TextEditor/bin/Debug/net7.0/TextEditor.pdb
+/home/erro404/Documentos/GitHub/Projetos_CSharp/TextEditor/obj/Debug/net7.0/TextEditor.csproj.AssemblyReference.cache
+/home/erro404/Documentos/GitHub/Projetos_CSharp/TextEditor/obj/Debug/net7.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/erro404/Documentos/GitHub/Projetos_CSharp/TextEditor/obj/Debug/net7.0/TextEditor.AssemblyInfoInputs.cache
+/home/erro404/Documentos/GitHub/Projetos_CSharp/TextEditor/obj/Debug/net7.0/TextEditor.AssemblyInfo.cs
+/home/erro404/Documentos/GitHub/Projetos_CSharp/TextEditor/obj/Debug/net7.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/erro404/Documentos/GitHub/Projetos_CSharp/TextEditor/obj/Debug/net7.0/TextEditor.dll
+/home/erro404/Documentos/GitHub/Projetos_CSharp/TextEditor/obj/Debug/net7.0/refint/TextEditor.dll
+/home/erro404/Documentos/GitHub/Projetos_CSharp/TextEditor/obj/Debug/net7.0/TextEditor.pdb
+/home/erro404/Documentos/GitHub/Projetos_CSharp/TextEditor/obj/Debug/net7.0/TextEditor.genruntimeconfig.cache
+/home/erro404/Documentos/GitHub/Projetos_CSharp/TextEditor/obj/Debug/net7.0/ref/TextEditor.dll
