@@ -1,0 +1,15 @@
+/home/erro404/Documentos/GitHub/Projetos_CSharp/EditorHTML/bin/Debug/net7.0/EditorHTML
+/home/erro404/Documentos/GitHub/Projetos_CSharp/EditorHTML/bin/Debug/net7.0/EditorHTML.deps.json
+/home/erro404/Documentos/GitHub/Projetos_CSharp/EditorHTML/bin/Debug/net7.0/EditorHTML.runtimeconfig.json
+/home/erro404/Documentos/GitHub/Projetos_CSharp/EditorHTML/bin/Debug/net7.0/EditorHTML.dll
+/home/erro404/Documentos/GitHub/Projetos_CSharp/EditorHTML/bin/Debug/net7.0/EditorHTML.pdb
+/home/erro404/Documentos/GitHub/Projetos_CSharp/EditorHTML/obj/Debug/net7.0/EditorHTML.csproj.AssemblyReference.cache
+/home/erro404/Documentos/GitHub/Projetos_CSharp/EditorHTML/obj/Debug/net7.0/EditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+/home/erro404/Documentos/GitHub/Projetos_CSharp/EditorHTML/obj/Debug/net7.0/EditorHTML.AssemblyInfoInputs.cache
+/home/erro404/Documentos/GitHub/Projetos_CSharp/EditorHTML/obj/Debug/net7.0/EditorHTML.AssemblyInfo.cs
+/home/erro404/Documentos/GitHub/Projetos_CSharp/EditorHTML/obj/Debug/net7.0/EditorHTML.csproj.CoreCompileInputs.cache
+/home/erro404/Documentos/GitHub/Projetos_CSharp/EditorHTML/obj/Debug/net7.0/EditorHTML.dll
+/home/erro404/Documentos/GitHub/Projetos_CSharp/EditorHTML/obj/Debug/net7.0/refint/EditorHTML.dll
+/home/erro404/Documentos/GitHub/Projetos_CSharp/EditorHTML/obj/Debug/net7.0/EditorHTML.pdb
+/home/erro404/Documentos/GitHub/Projetos_CSharp/EditorHTML/obj/Debug/net7.0/EditorHTML.genruntimeconfig.cache
+/home/erro404/Documentos/GitHub/Projetos_CSharp/EditorHTML/obj/Debug/net7.0/ref/EditorHTML.dll

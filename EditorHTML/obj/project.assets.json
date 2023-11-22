@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/erro404/Documentos/GitHub/Projetos_CSharp/Stopwatch/Stopwatch.csproj",
-      "projectName": "Stopwatch",
-      "projectPath": "/home/erro404/Documentos/GitHub/Projetos_CSharp/Stopwatch/Stopwatch.csproj",
+      "projectUniqueName": "/home/erro404/Documentos/GitHub/Projetos_CSharp/EditorHTML/EditorHTML.csproj",
+      "projectName": "EditorHTML",
+      "projectPath": "/home/erro404/Documentos/GitHub/Projetos_CSharp/EditorHTML/EditorHTML.csproj",
       "packagesPath": "/home/erro404/.nuget/packages/",
-      "outputPath": "/home/erro404/Documentos/GitHub/Projetos_CSharp/Stopwatch/obj/",
+      "outputPath": "/home/erro404/Documentos/GitHub/Projetos_CSharp/EditorHTML/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/erro404/.nuget/NuGet/NuGet.Config"
