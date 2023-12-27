@@ -1,0 +1,91 @@
+@page
+@model App.Pages.Tasks.IndexModel
+
+@{
+    ViewData["Title"] = "Tarefas";
+}
+
+@if (TempData["MessageSuccess"] != null)
+{
+    <div class="alert alert-success" role="alert">
+    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    @TempData["MessageSuccess"]
+</div>
+}
+@if (TempData["MessageErro"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    @TempData["MessageErro"]
+</div>
+}
+@if (TempData["MessageError"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    @TempData["MessageError"]
+</div>
+}
+<div class="text-center">
+    <h1>Listagem de tarefas</h1>
+</div>
+<p>
+    <a class="btn btn-primary" asp-page="Create">Adicionar Tarefa</a>
+</p>
+<table class="table table-hover table-bordered" id="table-tasks">
+    <thead>
+        <tr>
+            <th>
+                #
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TasksModel[0].Description)
+            </th>
+             <th>
+                @Html.DisplayNameFor(model => model.TasksModel[0].Done)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TasksModel[0].StartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TasksModel[0].EndDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TasksModel[0].User)
+            </th>
+            <th>
+                Ações
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.TasksModel)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Done)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StartDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EndDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.User)
+                </td>
+                <td>
+                    <a class="btn btn-warning" asp-page="./Edit" asp-route-id="@item.Id">Editar</a> |
+                    <a class="btn btn-info" asp-page="./Details" asp-route-id="@item.Id">Detalhes</a> |
+                    <a class="btn btn-danger" asp-page="./Delete" asp-route-id="@item.Id">Apagar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
