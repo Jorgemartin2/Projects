@@ -10594,11 +10594,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/erro404/Documentos/GitHub/Projetos_CSharp/App/App.csproj",
+      "projectUniqueName": "/home/erro404/Projetos_CSharp/App/App.csproj",
       "projectName": "App",
-      "projectPath": "/home/erro404/Documentos/GitHub/Projetos_CSharp/App/App.csproj",
+      "projectPath": "/home/erro404/Projetos_CSharp/App/App.csproj",
       "packagesPath": "/home/erro404/.nuget/packages/",
-      "outputPath": "/home/erro404/Documentos/GitHub/Projetos_CSharp/App/obj/",
+      "outputPath": "/home/erro404/Projetos_CSharp/App/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/erro404/.nuget/NuGet/NuGet.Config"

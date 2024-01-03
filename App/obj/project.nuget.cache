@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XIdW+xQ/eb/HkziQ3O8NVIW8p7eaPWNQSH19OFMb/E/DyKjWc32IOcRP3QuNkDrP7hLTHtwT7gTIrdz0MJ/2uQ==",
+  "dgSpecHash": "/OfTK6LWo/aT++4jdpLqhq3cLnez7HYUAxGinFT7P+wK1N8v/cazJ4Abo5VtrgQ7cqFHOb8ZsldPaUQQqQByTw==",
   "success": true,
-  "projectFilePath": "/home/erro404/Documentos/GitHub/Projetos_CSharp/App/App.csproj",
+  "projectFilePath": "/home/erro404/Projetos_CSharp/App/App.csproj",
   "expectedPackageFiles": [
     "/home/erro404/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/erro404/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",
